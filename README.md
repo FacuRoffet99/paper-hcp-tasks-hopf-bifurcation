@@ -1,4 +1,4 @@
-# **Modeling the Dynamics of Fluctuations in the Brain: Differences Between Resting-State and Cognitive Tasks**  
+# **Deep learning and whole-brain networks for biomarker discovery: modeling the dynamics of brain fluctuations in resting-state and cognitive tasks**  
 Reproducibility code
 
 
