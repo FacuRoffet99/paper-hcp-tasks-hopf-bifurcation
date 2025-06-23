@@ -42,7 +42,6 @@ If you wish to download the dataset manually, please refer to the Zenodo link:
 
 ## **Citing**  
 
-If you use our software, please cite the original research article:
 If you use this repository in your research, please cite the original article:
 
 PUBLICATION IN PROGRESS, THIS SECTION WILL BE FINISHED ONCE PUBLISHED 
